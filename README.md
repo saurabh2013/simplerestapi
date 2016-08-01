@@ -1,2 +1,2 @@
-# GoServ A sample test Application
-This repository is part of a test application to serv data for another frontend sample
+# SimpleRestApi A sample Rest Api 
+This repository demonstrate a simple implementation of REST Api using grilla mux framework.
